@@ -18,4 +18,5 @@ image:
 share: false
 ---
 
-*Click the poster link above to open the full-resolution PDF.*
+**Links & Resources:**
+* [View Poster](chrommatic-homology-poster.pdf)
