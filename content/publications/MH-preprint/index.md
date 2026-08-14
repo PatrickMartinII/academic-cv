@@ -33,3 +33,4 @@ url_poster: '/uploads/magnitude-homology-poster.pdf'
 links:
   - name: arXiv (Preprint)
     url: https://arxiv.org/abs/2503.11976
+---
