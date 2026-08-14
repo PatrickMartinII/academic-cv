@@ -47,7 +47,7 @@ sections:
       text: |-
         Hypergraph and graph invariants can be categorified into (co)homology theories which usually capture more information and exhibit a depth that the original invariant cannot reach via the torsion subgroups which can appear. Of the invariants which have been categorified, particular interest has bee garnered in the magnitude and chromatic polynomial of a hypergraph/graph. 
 
-        Although richer and more versatile, these categorifications typically require an immense computational cost. The aim then is to use algrbraic tools to simplify the complexes to smaller homotopy equivalent complexes in order to reduce the computations. Then these tools can be directed towards interpreting large datasets which can be represented by a hypergraph. 
+        Although richer and more versatile, these categorifications typically require an immense computational cost. The aim then is to use algebraic tools to simplify the complexes to smaller homotopy equivalent complexes in order to reduce the computations. Then these tools can be directed towards interpreting large datasets which can be represented by a hypergraph. 
     design:
       columns: '1'
 #  - block: collection
