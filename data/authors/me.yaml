@@ -11,10 +11,10 @@ postnominals:
   - PhD
 status:
   icon: " "
-role: "Mathematics Ph.D. Student"
-organizations:
-  - name: "North Carolina State University"        
-  - name: "SAS Hall" 
+role: |
+  Mathematics Ph.D. Student
+  North Carolina State University
+  SAS Hall
 bio: " "
 #Well versed in algebriac, topological, and combinatorial techniques; I am a mathematician with the desire to uncover all the secrets hidden within the abstract world which we explore.  
 #There is no limit or bounds for knowledge; no supremum which restrains the voyage into the unknown; no infimum which governs the depths of what can be discovered. There is no wage or price which can be rightly assigned to the treasure of wisdom. This is why the pursuit and expanse of mathematics must continue, even in the most obscure of areas. It is the glory of God to conceal a matter, but the honour of kings is to search it out.
