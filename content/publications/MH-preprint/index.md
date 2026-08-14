@@ -23,13 +23,8 @@ abstract: In this article, we analyze the structure and relationships between ma
 
 featured: true
 
-# Built-in HugoBlox buttons
 url_code: 'https://github.com/PatrickMartinII/Magnitude-Homology'
 url_slides: '/uploads/magnitude-slides.pdf'
 url_poster: '/uploads/magnitude-homology-poster.pdf'
-
-# Custom button for the arXiv preprint
-links:
-  - name: arXiv (Preprint)
-    url: https://arxiv.org/abs/2503.11976
+url_pdf: 'https://arxiv.org/abs/2503.11976'
 ---
