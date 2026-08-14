@@ -27,3 +27,5 @@ mounts:
     target: layouts
   - source: assets
     target: assets
+  - source: static
+    target: static
