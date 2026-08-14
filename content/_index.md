@@ -14,7 +14,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: /pmCV.pdf
+        url: pmCV.pdf
       headings:
         about: ''
         education: ''
