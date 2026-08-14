@@ -22,14 +22,11 @@ open_access: true
 abstract: In this article, we analyze the structure and relationships between magnitude homology and Eulerian magnitude homology of finite graphs. Building on the work of Kaneta and Yoshinaga, Sazdanovic and Summers, and Asao and Izumihara, we provide two proofs of the existence of torsion in Eulerian magnitude homology, offer insights into the types and orders of torsion, and present explicit computations for various classes of graphs.
 
 featured: true
-
-links:
-  - type: code
-    url: 'https://github.com/PatrickMartinII/Magnitude-Homology'
-  - type: slides
-    url: '/uploads/magnitude-slides.pdf'
-  - type: poster
-    url: '/uploads/magnitude-homology-poster.pdf'
-  - type: preprint
-    url: 'https://arxiv.org/abs/2503.11976'
 ---
+---
+
+**Links & Resources:**
+* [Read the Preprint (arXiv)](https://arxiv.org/abs/2503.11976)
+* [GitHub Code](https://github.com/PatrickMartinII/Magnitude-Homology)
+* [View Slides](/uploads/magnitude-slides.pdf)
+* [View Poster](/uploads/magnitude-homology-poster.pdf)
