@@ -3,3 +3,12 @@ h1,
 .page-heading h1 {
   font-size: 1.5rem !important; 
 }
+
+/* Hide text in the navbar brand but keep the image logo */
+.navbar-brand {
+  font-size: 0 !important;
+}
+
+.navbar-brand img {
+  display: block;
+}
