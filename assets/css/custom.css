@@ -4,11 +4,15 @@ h1,
   font-size: 1.5rem !important; 
 }
 
-/* Hide text in the navbar brand but keep the image logo */
+/* Hide text in the navbar brand */
 .navbar-brand {
   font-size: 0 !important;
+  line-height: 0 !important;
 }
 
+/* Keep the logo visible and force it to a reasonable size */
 .navbar-brand img {
-  display: block;
+  display: inline-block !important;
+  max-height: 40px !important; /* Change this number to adjust navbar thickness */
+  width: auto !important;
 }
