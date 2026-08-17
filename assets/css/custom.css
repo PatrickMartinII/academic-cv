@@ -4,15 +4,27 @@ h1,
   font-size: 1.5rem !important; 
 }
 
-/* Hide text in the navbar brand */
+/* Navbar brand */
 .navbar-brand {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+  padding: 0 !important;
+  margin: 0 !important;
   font-size: 0 !important;
-  line-height: 0 !important;
+  line-height: 1 !important;
 }
 
-/* Keep the logo visible and force it to a reasonable size */
-.navbar-brand img {
-  display: inline-block !important;
-  max-height: 40px !important; /* Change this number to adjust navbar thickness */
+/* Logo */
+.navbar-brand svg {
+  display: block !important;
+  height: 48px !important;
   width: auto !important;
+  max-height: none !important;
+}
+
+/* Vertically center the brand within the navbar */
+.navbar {
+  display: flex !important;
+  align-items: center !important;
 }
