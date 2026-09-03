@@ -28,3 +28,24 @@ h1,
   display: flex !important;
   align-items: center !important;
 }
+
+/* Stack publication/article links vertically */
+.article-links {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: flex-start !important;
+  gap: 0.75rem !important;
+}
+
+.article-links a {
+  display: flex !important;
+  align-items: center !important;
+  gap: 0.5rem !important;
+}
+
+/* Make the PDF icons visible */
+.article-links svg {
+  display: inline-block !important;
+  width: 1em;
+  height: 1em;
+}
